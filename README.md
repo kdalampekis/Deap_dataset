@@ -47,4 +47,4 @@ The project uses the [DEAP dataset](https://www.eecs.qmul.ac.uk/mmv/datasets/dea
 ### 1. Clone the Repository:
 ```bash
 git clone https://github.com/kdalampekis/Deap_dataset
-cd notebooks
+cd Notebooks
